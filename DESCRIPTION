@@ -1,0 +1,15 @@
+Package: Class9.2
+Type: Package
+Title: Provides an example of how to create a package
+Version: 0.1.0
+Author: Trevor Ayers
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: Learn how to create a R package in class that includes
+    the functions we created in homework 2 and 3.
+License: UCLA
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    dplyr,
+    ggplot2
+RoxygenNote: 6.0.1
